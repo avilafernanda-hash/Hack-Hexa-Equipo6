@@ -1,0 +1,11 @@
+//el programa analiza sus unicas dos posibilidades partiendo de la A, que vendrian siendo B y D
+// sumaria el total de horas de cada ruta hasta llegar a la letra F\
+//A a B son 4 horas 
+//B a C son 5 horas
+//C a F es 1 hora
+// la suma de esta ruta seria de 10 horas
+//guarda este numero para despues compararlo con la siguiente ruta 
+// A a D son 3 horas
+// D F son 2 horas
+//Su suma seria de 5 horas
+// Al compararlas es notable que la segunad hora cuenta con numero de horas menor a la primera ruta.

@@ -1,0 +1,12 @@
+// Como se explico en el otro archivo, el cifrado es el codigo cesar, que basicamente desplaza las letras una posicion hacia adelante
+//Es decir A la escribiriamos comlo B
+//B la seria c
+//C seria d
+//y asi sucesivamente
+//si lo queremos ver de manera numerica
+//La letra a1
+//seria la letra b2
+
+//donde a es el sistema original del mundo real y el numero equivale a su posicion en el alfabeto
+//b es el sistema incriptado y numero representa su posicion en el alfabeto
+

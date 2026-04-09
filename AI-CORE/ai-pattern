@@ -1,0 +1,26 @@
+Si el emoji sonrie 
+"sentiment" : "positivo"
+
+If(el emoji es de color naranja)
+"sentiment"= "negativo"
+
+if(emomji llora )
+"sentiment" = "negativo"
+
+if (emoji tiene corazon)
+"sentiment" = "positivo"
+
+if (emoji tiene lentes)
+"sentiment" = "positivo"
+
+ IF (emoji saca la lengua)
+ "sentiment" =  "positivo"
+
+ if (emoji tira un beso)
+ "sentiment" = "positivo"
+
+ if (emoji tiene boca de linea)
+ "sentiment" = "negativo"
+
+ if(emoji saca humo o explota)
+ "sentiment" = "negativo"
