@@ -1,0 +1,30 @@
+[
+  {
+    "caso": "A",
+    "temperatura": "alta",
+    "movimiento": "si",
+    "dia": "no",
+    "tamaño": "pequeño",
+    "ruido": "alto",
+    "resultado": "No activar alarmas"
+  },
+  {
+    "caso": "B",
+    "temperatura": "baja",
+    "movimiento": "si",
+    "dia": "no",
+    "tamaño": "grande",
+    "ruido": "alto",
+    "resultado": "Activar camaras de seguridad"
+  }
+  ,
+  {
+    "caso": "C",
+    "temperatura": "alta",
+    "movimiento": "si",
+    "dia": "no",
+    "tamaño": "grande",
+    "ruido": "alto",
+    "resultado": "Alerta"
+  }
+]
