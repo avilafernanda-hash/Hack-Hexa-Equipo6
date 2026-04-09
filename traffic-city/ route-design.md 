@@ -1,7 +1,12 @@
 Se busca generar todas las rutas posibles para moverse entre A y K
 
-Aqui contaremos que no se puede regresar a los puntos porque sino
+Puntos importantes
+
+*Aqui contaremos que no se puede regresar a los puntos porque sino
 las rutas posibles serian mas del doble
 
-Cada ciudad tiene acceso a 2 hasta 4 ciudades
+*Cada ciudad tiene acceso a 2 hasta 4 ciudades
 y crear un algoritmo para desarrollar todas las rutas 
+posibles seria alateriorizando las letras hasta llegar a la K.
+
+Ruta mas corta: A → D  → J  →K y A  → B  → H  → K
